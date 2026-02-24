@@ -1,0 +1,71 @@
+﻿Teacher,Section,Student,Score,Attendance,LateCount,Attrition,Remarks
+Rahul Sharma,A,Aarav,8.5,92,1,No,Excellent
+Rahul Sharma,A,Vihaan,7.8,88,2,No,Good
+Rahul Sharma,A,Arjun,6.5,85,3,No,Needs improvement
+Rahul Sharma,A,Reyansh,8.9,94,0,No,Excellent
+Rahul Sharma,A,Mohit,7.4,89,2,No,Good progress
+Rahul Sharma,A,Raj,8.2,91,1,No,Very good
+Rahul Sharma,A,Kunal,6.9,86,2,No,Average
+Rahul Sharma,A,Lokesh,7.7,90,1,No,Good
+Rahul Sharma,A,Nikhil,8.4,93,0,No,Very good
+Rahul Sharma,A,Ayush,6.8,84,3,No,Average
+Priya Mehta,B,Ishaan,9.1,95,0,No,Outstanding
+Priya Mehta,B,Kabir,8.2,91,1,No,Very good
+Priya Mehta,B,Samar,7,87,2,No,Good
+Priya Mehta,B,Tanay,8.8,95,0,No,Excellent
+Priya Mehta,B,Imran,6.8,85,3,No,Average
+Priya Mehta,B,Naveen,7.5,89,1,No,Good
+Priya Mehta,B,Farhan,8.4,92,1,No,Very good
+Priya Mehta,B,Adnan,5.9,82,3,Yes,At Risk
+Priya Mehta,B,Rehan,7.3,88,2,No,Good
+Priya Mehta,B,Affan,8.6,94,0,No,Excellent
+Amit Singh,C,Rohan,5.5,80,4,Yes,At Risk
+Amit Singh,C,Wasim,6.1,83,3,Yes,Needs improvement
+Amit Singh,C,Sameer,7.2,88,2,No,Good
+Amit Singh,C,Arman,8.3,92,1,No,Very good
+Amit Singh,C,Sahil,6.4,84,2,No,Average
+Amit Singh,C,Faiz,5.8,81,3,Yes,Weak
+Amit Singh,C,Zaid,7.9,90,1,No,Good
+Amit Singh,C,Altamash,8.6,94,0,No,Excellent
+Amit Singh,C,Shadab,6.7,85,2,No,Average
+Amit Singh,C,Azhar,7.5,89,1,No,Good
+Neha Joshi,A,Aditya,7.5,89,2,No,Good
+Neha Joshi,A,Ayaan,8.9,94,0,No,Excellent
+Neha Joshi,A,Manav,7.3,88,2,No,Good
+Neha Joshi,A,Naksh,9.2,96,0,No,Outstanding
+Neha Joshi,A,Devansh,8.1,91,1,No,Very good
+Neha Joshi,A,Yuvraj,6.7,85,2,No,Average
+Neha Joshi,A,Rudransh,7.8,90,1,No,Good
+Neha Joshi,A,Krish,8.5,93,0,No,Excellent
+Neha Joshi,A,Dhruv,7.6,89,1,No,Good
+Neha Joshi,A,Lakshya,8.3,92,0,No,Very good
+Vikas Rao,B,Krishna,6.8,87,2,No,Average
+Vikas Rao,B,Harsh,7.4,89,1,No,Good
+Vikas Rao,B,Keshav,8,90,1,No,Very good
+Vikas Rao,B,Kartik,9.3,97,0,No,Outstanding
+Vikas Rao,B,Ayushman,7.1,88,2,No,Good
+Vikas Rao,B,Ritik,6.2,83,3,Yes,Weak
+Vikas Rao,B,Deepak,8.4,92,1,No,Very good
+Vikas Rao,B,Pratik,5.7,81,4,Yes,At Risk
+Vikas Rao,B,Chandan,7.9,90,1,No,Good
+Vikas Rao,B,Vivek,8.7,95,0,No,Excellent
+Sneha Patil,C,Rudra,9.5,97,0,No,Outstanding
+Sneha Patil,C,Shivansh,9.7,99,0,No,Outstanding
+Sneha Patil,C,Ayush,8.6,94,0,No,Excellent
+Sneha Patil,C,Omkar,7.9,90,1,No,Good
+Sneha Patil,C,Swaraj,8.3,92,1,No,Very good
+Sneha Patil,C,Tejas,6.9,86,2,No,Average
+Sneha Patil,C,Soham,7.6,89,1,No,Good
+Sneha Patil,C,Parth,8.8,95,0,No,Excellent
+Sneha Patil,C,Tanmay,7.2,88,2,No,Good
+Sneha Patil,C,Sanket,8.4,93,0,No,Very good
+Anita Kulkarni,A,Om,8.1,91,1,No,Very good
+Anita Kulkarni,A,Atharva,9,95,0,No,Outstanding
+Anita Kulkarni,A,Daksh,6.3,83,3,Yes,Weak
+Anita Kulkarni,A,Ansh,8.4,93,1,No,Very good
+Anita Kulkarni,A,Tanish,7.2,88,2,No,Good
+Anita Kulkarni,A,Viraj,8.7,94,0,No,Excellent
+Anita Kulkarni,A,Rajveer,7.5,89,1,No,Good
+Anita Kulkarni,A,Aaryan,6.8,85,2,No,Average
+Anita Kulkarni,A,Siddharth,8.9,96,0,No,Outstanding
+Anita Kulkarni,A,Hardik,7.7,90,1,No,Good
